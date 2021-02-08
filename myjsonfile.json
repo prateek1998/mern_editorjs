@@ -1,0 +1,27 @@
+{
+    "time": 1612811485696,
+    "blocks": [
+        {
+            "type": "header",
+            "data": {
+                "text": "Rich Text Editor",
+                "level": 1
+            }
+        },
+        {
+            "type": "image",
+            "data": {
+                "file": {
+                    "name": "pexels-pixabay-247431.jpg",
+                    "size": 1506181,
+                    "url": "uploads\\pexels-pixabay-247431.jpg"
+                },
+                "caption": "elephant",
+                "withBorder": false,
+                "stretched": false,
+                "withBackground": false
+            }
+        }
+    ],
+    "version": "2.19.1"
+}
