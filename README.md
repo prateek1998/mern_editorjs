@@ -25,3 +25,6 @@ npm run dev
 
 Now your UI is running on '[http://localhost:3000](http://localhost:3000/)'.
 and Service is running on '[http://localhost:5000](http://localhost:5000/)'.
+
+# Screenshot
+![editor.js](https://raw.githubusercontent.com/prateek1998/mern_editorjs/main/screenshots/Screenshot%202021-02-09%20003502.jpg)
