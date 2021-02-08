@@ -28,3 +28,8 @@ and Service is running on '[http://localhost:5000](http://localhost:5000/)'.
 
 # Screenshot
 ![editor.js](https://raw.githubusercontent.com/prateek1998/mern_editorjs/main/screenshots/Screenshot%202021-02-09%20003502.jpg)
+
+# Saving the code in server
+When you press the save button in the top then you will create the json file in the server where each block is created using the **editor.js library** 
+![editor.js](https://raw.githubusercontent.com/prateek1998/mern_editorjs/main/screenshots/Screenshot%202021-02-09%20004543.jpg)
+
